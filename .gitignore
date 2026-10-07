@@ -1,4 +1,8 @@
 .env
 .venv/
 __pycache__/
-results.csv
+/results.csv
+.env.*
+!.env.example
+tmp/
+*.log
